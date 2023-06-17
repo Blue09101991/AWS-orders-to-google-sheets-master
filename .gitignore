@@ -1,0 +1,10 @@
+credentials.json
+client_secret.json
+
+*.pyc
+
+venv/
+.env
+.DS_Store
+.idea/
+.vscode
